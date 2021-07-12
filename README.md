@@ -8,6 +8,9 @@
   <a>
     <img src="https://img.shields.io/github/languages/count/raihanM95/Encrypt.Pass" alt="languages">
   </a>
+  <a href="https://actions-badge.atrox.dev/raihanM95/Encrypt.Pass/goto?ref=master">
+    <img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FraihanM95%2FEncrypt.Pass%2Fbadge%3Fref%3Dmaster&style=flat" />
+  </a>
   <a>
     <img src="https://img.shields.io/github/release/raihanM95/Encrypt.Pass" alt="release">
   </a>
